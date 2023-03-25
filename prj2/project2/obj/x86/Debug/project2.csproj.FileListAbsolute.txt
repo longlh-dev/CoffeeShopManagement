@@ -1,0 +1,285 @@
+D:\hok ky 2 nam hok 2013-2014\project2\project2\bin\Debug\project2.exe
+D:\hok ky 2 nam hok 2013-2014\project2\project2\bin\Debug\project2.pdb
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.Form1.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.exe
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.pdb
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+D:\hok ky 2 nam hok 2013-2014\project2\project2\obj\x86\Debug\project2.frmSanPham.resources
+E:\project2\project2\obj\x86\Debug\project2.exe
+E:\project2\project2\obj\x86\Debug\project2.pdb
+E:\project2\project2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project2\project2\obj\x86\Debug\project2.Form1.resources
+E:\project2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+E:\project2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+E:\project2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+E:\project2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+E:\project2\project2\obj\x86\Debug\project2.frmSanPham.resources
+E:\project2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+E:\project2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+E:\project2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+E:\project2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+E:\project2\project2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project2\project2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project2\project2\bin\Debug\project2.exe
+E:\project2\project2\bin\Debug\project2.pdb
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.exe
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.pdb
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\bin\Debug\project2.exe
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\bin\Debug\project2.pdb
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.Form1.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmSanPham.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TK10.1-G3 (HoàngThịOanh)\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.exe
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.pdb
+D:\chuongtrinh\project2\project2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.Form1.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmSanPham.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+D:\chuongtrinh\project2\project2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\chuongtrinh\project2\project2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\chuongtrinh\project2\project2\bin\Debug\project2.exe
+D:\chuongtrinh\project2\project2\bin\Debug\project2.pdb
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.exe
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.pdb
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\bin\Debug\project2.exe
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\bin\Debug\project2.pdb
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.Form1.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmSanPham.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TK10.1-G3 (HoàngThịOanh)\HOANG THI OANH\project2\project2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.exe
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.pdb
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\bin\Debug\project2.exe
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\bin\Debug\project2.pdb
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.Form1.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmSanPham.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.csproj.GenerateResource.Cache
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project2\project2\obj\x86\Debug\project2.csprojResolveAssemblyReference.cache
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.exe
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.pdb
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.csprojResolveAssemblyReference.cache
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmquanly.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmSanPham.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.csproj.GenerateResource.Cache
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\obj\x86\Debug\project2.exe.licenses
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\bin\Debug\project2.exe
+C:\Users\dinhlam\Desktop\Hoàng Thị Oanh\HOANG THI OANH\project1\project2\project2\bin\Debug\project2.pdb
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.exe
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.pdb
+C:\Users\dinhlam\Desktop\DinhLam\project2\bin\Debug\project2.exe
+C:\Users\dinhlam\Desktop\DinhLam\project2\bin\Debug\project2.pdb
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.csprojResolveAssemblyReference.cache
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmquanly.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmSanPham.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.frmTroGiup.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.Properties.Resources.resources
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.csproj.GenerateResource.Cache
+C:\Users\dinhlam\Desktop\DinhLam\project2\obj\x86\Debug\project2.exe.licenses
+C:\Users\dinhlam\Desktop\DangDinhLam_DoanTheCuongQuoc\DangDinhLam_DoanTheCuongQuoc\project2\obj\x86\Debug\project2.exe
+C:\Users\dinhlam\Desktop\DangDinhLam_DoanTheCuongQuoc\DangDinhLam_DoanTheCuongQuoc\project2\obj\x86\Debug\project2.pdb
+C:\QL CAFE\prj2\project2\bin\Debug\project2.exe.config
+C:\QL CAFE\prj2\project2\bin\Debug\project2.exe
+C:\QL CAFE\prj2\project2\bin\Debug\project2.pdb
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Data.v22.1.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\QL CAFE\prj2\project2\bin\Debug\EntityFramework.dll
+C:\QL CAFE\prj2\project2\bin\Debug\EntityFramework.SqlServer.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\QL CAFE\prj2\project2\bin\Debug\EntityFramework.xml
+C:\QL CAFE\prj2\project2\bin\Debug\EntityFramework.SqlServer.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\QL CAFE\prj2\project2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.AssemblyReference.cache
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmquanly.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmSanPham.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.GenerateResource.cache
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.exe.licenses
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.CoreCompileInputs.cache
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.CopyComplete
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.exe
+C:\QL CAFE\prj2\project2\obj\x86\Debug\project2.pdb
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\project2.exe.config
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\project2.exe
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\project2.pdb
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\EntityFramework.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\EntityFramework.SqlServer.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Data.v22.1.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Office.v22.1.Core.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Utils.v22.1.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\EntityFramework.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\EntityFramework.SqlServer.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.AssemblyReference.cache
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.SuggestedBindingRedirects.cache
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmchitietphieuxuat.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmDăngnhap.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmquanly.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmQuanlynhanvien.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmQuanlyphieuxuat.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmSanPham.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmThaydoitaikhoan.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmthongkephieuxuat.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmThongkesanpham.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.frmTroGiup.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.Properties.Resources.resources
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.GenerateResource.cache
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.exe.licenses
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.CoreCompileInputs.cache
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.csproj.CopyComplete
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.exe
+E:\REPO\QL CAFE\QL CAFE\QL CAFE\prj2\project2\obj\x86\Debug\project2.pdb

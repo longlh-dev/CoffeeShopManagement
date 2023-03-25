@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a7e78b54a86645609f22a40745827b0d" Name="Diagram1">
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.ChiTietPhieuNhap" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.ChiTietPhieuXuat" Width="1.5" PointX="6" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.DangNhap" Width="1.5" PointX="5.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.NhanVien" Width="1.5" PointX="1.5" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.PhieuNhap" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.PhieuXuat" Width="1.5" PointX="3.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.SanPham" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DA2_QLCHCFMHModel.sysdiagram" Width="1.5" PointX="7.75" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="DA2_QLCHCFMHModel.FK_ChiTietPhieuNhap_PhieuNhap" ManuallyRouted="false" />
+        <AssociationConnector Association="DA2_QLCHCFMHModel.FK_ChiTietPhieuNhap_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="DA2_QLCHCFMHModel.FK_ChiTietPhieuXuat_PhieuXuat" ManuallyRouted="false" />
+        <AssociationConnector Association="DA2_QLCHCFMHModel.FK_ChiTietPhieuXuat_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="DA2_QLCHCFMHModel.FK_PhieuNhap_NhanVien" ManuallyRouted="false" />
+        <AssociationConnector Association="DA2_QLCHCFMHModel.FK_PhieuXuat_NhanVien" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
